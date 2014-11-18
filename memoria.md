@@ -15,3 +15,4 @@ Ideas:
 * Sistema de puntuación
 * Posible: Compartir puntuación el las redes
 * Posible: Ranking
+* Jefe secreto: Pablo Iglesias la forma de acabar con él es cortándole la coleta
